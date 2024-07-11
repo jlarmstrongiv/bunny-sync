@@ -2,8 +2,6 @@
   "name": "bunny-sync",
   "version": "0.0.5",
   "private": false,
-  "main": "index.js",
-  "bin": "no-warnings.js",
   "type": "module",
   "description": "Sync to and from your storage zones with bunny.net in a single cli command 🐰",
   "keywords": [
@@ -18,7 +16,7 @@
     "api",
     "cli"
   ],
-  "homepage": "https://github.com/jlarmstrongiv/bunny-sync/",
+  "homepage": "https://bunny-launcher.com/bunny-sync/getting-started/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-sync/issues",
   "repository": {
     "type": "git",
@@ -30,6 +28,8 @@
   "scripts": {
     "prepublishOnly": "node ./check-dependencies.js"
   },
+  "main": "index.js",
+  "bin": "no-warnings.js",
   "files": [
     "no-warnings.js",
     "cli.js",
