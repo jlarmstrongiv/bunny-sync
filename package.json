@@ -33,8 +33,7 @@
   "files": [
     "no-warnings.js",
     "cli.js",
-    "commands",
-    "yoga.wasm"
+    "commands"
   ],
   "dependencies": {
     "react": "^18.3.1",
