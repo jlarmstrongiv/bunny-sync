@@ -2,7 +2,7 @@
   "name": "bunny-sync",
   "version": "0.0.3",
   "private": false,
-  "main": "cli.js",
+  "main": "index.js",
   "bin": "no-warnings.js",
   "type": "module",
   "description": "Sync to and from your storage zones with bunny.net in a single cli command 🐰",
@@ -33,7 +33,8 @@
   "files": [
     "no-warnings.js",
     "cli.js",
-    "commands"
+    "commands",
+    "index.js"
   ],
   "dependencies": {
     "react": "^18.3.1",
