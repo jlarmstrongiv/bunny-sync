@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-npx bunny-sync@latest <from> <to...>
+npx --yes bunny-sync@latest <from> <to...>
 ```
 
 ## Documentation
