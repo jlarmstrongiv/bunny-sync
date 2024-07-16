@@ -26,7 +26,7 @@
   "author": "John L. Armstrong IV",
   "sideEffects": false,
   "scripts": {
-    "prepublishOnly": "node ./check-dependencies.js"
+    "prepublishOnly": "node --disable-warning=ExperimentalWarning ./check-dependencies.js"
   },
   "main": "index.js",
   "bin": "no-warnings.js",
