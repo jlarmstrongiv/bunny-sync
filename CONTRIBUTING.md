@@ -1,5 +1,7 @@
 # Contributing
 
+- Compare with `bunny-launcher`
+- Compare with `create-bunny-launcher`
 - `corepack enable npm`
 - `npm login`
 - `npm install`
