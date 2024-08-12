@@ -11,3 +11,10 @@ export type SyncParameters = {
 };
 
 export function sync(syncParameters: SyncParameters): Promise<void>;
+
+export type PurgeParameters = {
+  locations: string[];
+  accessKeys: string[];
+};
+
+export function purge(purgeParameters: PurgeParameters): Promise<void>;
