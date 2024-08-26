@@ -35,7 +35,8 @@
     "no-warnings.js",
     "cli.js",
     "commands",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
