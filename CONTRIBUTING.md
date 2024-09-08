@@ -1,7 +1,10 @@
 # Contributing
 
-- Compare with `bunny-launcher`
-- Compare with `create-bunny-launcher`
+- Compare with:
+  - `bunny-launcher`
+  - `create-bunny-launcher`
+  - `bunny-sync`
+  - `bunny-move`
 - `corepack enable npm`
 - `npm login`
 - `npm install`

@@ -3,13 +3,14 @@
   "version": "0.0.18",
   "private": false,
   "type": "module",
-  "description": "Sync to and from your storage zones with bunny.net in a single cli command 🐰",
+  "description": "Sync files to and from your storage zones with bunny.net in a single cli command 🐰",
   "keywords": [
     "BunnyCDN",
     "bunny.net",
     "bunny",
     "cdn",
     "bunny-sync",
+    "bunny-move",
     "bunny-launcher",
     "create-bunny-launcher",
     "typescript",
@@ -17,7 +18,7 @@
     "api",
     "cli"
   ],
-  "homepage": "https://bunny-launcher.net/bunny-sync/getting-started/",
+  "homepage": "https://bunny-launcher.net/bunny-sync/quickstart/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-sync/issues",
   "repository": {
     "type": "git",
