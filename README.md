@@ -13,4 +13,4 @@ npx --yes bunny-sync@latest <from> <to...>
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/bunny-sync/quickstart/) for usage and examples.
+Please read the [docs](https://bunny-launcher.net/bunny-transfer/quickstart/) for usage and examples.
