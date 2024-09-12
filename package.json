@@ -1,6 +1,6 @@
 {
   "name": "bunny-sync",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "private": false,
   "type": "module",
   "description": "Sync files to and from your storage zones with bunny.net in a single cli command 🐰",
